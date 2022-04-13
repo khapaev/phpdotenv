@@ -1,0 +1,21 @@
+{
+    "name": "khapaev/phpdotenv",
+    "description": "Loads environment variables from `.env` file to `getenv()`, `$_ENV` and `$_SERVER`.",
+    "keywords": ["env"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+	    "Dotenv\\": "src/"
+	}
+    },
+    "authors": [
+        {
+            "name": "Alexander Khapaev",
+	    "email": "alexander@khapaev.ru",
+	    "homepage": "https://github.com/khapaev"
+        }
+    ]
+}
