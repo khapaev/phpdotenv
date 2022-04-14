@@ -2,7 +2,10 @@
     "name": "khapaev/phpdotenv",
     "description": "Loads environment variables from `.env` file to `getenv()`, `$_ENV` and `$_SERVER`.",
     "keywords": [
-        "env"
+        "php",
+        "dotenv",
+        "environment",
+        "configuration"
     ],
     "license": "MIT",
     "require": {
